@@ -1,4 +1,4 @@
-# github.io
+Bio
 
 My name is Blair Matthews and I am a teaching fellow at the University of St Andrews. I graduated with a PhD in Education from the University of Stirling and an MA in Educational Technology and TESOL from the University of Manchester.
 
